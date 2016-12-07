@@ -1,0 +1,27 @@
+{
+  "name": "aws-codebuild-test1",
+  "version": "1.0.0",
+  "description": "test of npm and codebuild",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/james-huston/aws-codebuild-test1.git"
+  },
+  "keywords": [
+    "aws",
+    "codebuild",
+    "nodejs"
+  ],
+  "author": "james@jameshuston.net",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/james-huston/aws-codebuild-test1/issues"
+  },
+  "homepage": "https://github.com/james-huston/aws-codebuild-test1#readme",
+  "dependencies": {
+    "debug": "^2.3.3"
+  }
+}
